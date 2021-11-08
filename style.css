@@ -44,11 +44,11 @@ html {
     
   }
 
-  .panel1 {background-image: url(/Day5/sing.jpg);}
-  .panel2 {background-image: url(/Day5/give\ &\ recieve.jpg);} 
-  .panel3 {background-image: url(/Day5/today.jpg);}
-  .panel4 {background-image: url(/Day5/never\ give\ up.jpg);}
-  .panel5 {background-image: url(/Day5/life\ is\ beautiful.jpg);}
+  .panel1 {background-image: url(/Day5/images/sing.jpg);}
+  .panel2 {background-image: url(/Day5/images/give\ &\ recieve.jpg);} 
+  .panel3 {background-image: url(/Day5/images/today.jpg);}
+  .panel4 {background-image: url(/Day5/images/never\ give\ up.jpg);}
+  .panel5 {background-image: url(/Day5/images/life\ is\ beautiful.jpg);}
 
   /* Flex Children */
   .panel > * {
